@@ -1,8 +1,11 @@
-### Hi there, I'm Utku. 👋
+<h2 align="left">Hi there, I'm Utku. 👋</h2>
+<h3 align="left">
+I'm interested in front-end and mobile technologies but mostly mobile(React Native) :slightly_smiling_face:<br>
+</h3>
 
-- 🔭 I’m currently working on **React Native**
-- 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **React Native, JavaScript, HTML, CSS**
+- At front-end side, i improve myself these technologies :point_right: ***JavaScript, React, HTML, CSS***<br>
+- At mobile side, i improve myself this technology :point_right: ***React Native***
+- 💬 Ask me about ***React Native, JavaScript***
 - 📫 How to reach me: ut.imd@yandex.com
 
 <h3 align="left">Connect with me :</h3>
@@ -12,6 +15,7 @@
 <a href="https://www.hackerrank.com/ut_imd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ut_imd" height="35" width="35" /></a>
 </p>
 
+<hr/>
 <h3 align="left">Languages :</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
