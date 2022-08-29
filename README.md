@@ -26,3 +26,19 @@
 <a href="https://www.blackmagicdesign.com/tr/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/davinci_resolve_alt_macos_bigsur_icon_190260.png" alt="davinciresolve" width="40" height="40" /></a>
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" alt="gimp" width="40" height="40" /></a>
 </p>
+
+<hr/>
+<h3 align="left">My Stats :</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkuimd&show_icons=true&locale=en&layout=compact" width="500" alt="utkuimd" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utkuimd&show_icons=true&locale=en" width="500" alt="utkuimd" />
+</p>
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuimd&" width="500" alt="utkuimd" />
+</p>
+
+
+
+
